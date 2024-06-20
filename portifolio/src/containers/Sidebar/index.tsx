@@ -17,7 +17,7 @@ const Sidebar = (props: Props) => (
         Xmaloe
       </Paragrafo>
       <Descricao tipo="principal" fontSize={12}>
-        Engenheiro Full Stack
+        Engenheira Full Stack
       </Descricao>
       <BotaoTema onClick={props.trocaTema}>Trocar tema</BotaoTema>
     </SidebarContainer>
