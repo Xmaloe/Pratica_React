@@ -17,7 +17,8 @@ const Sidebar = (props: Props) => (
         Xmaloe
       </Paragrafo>
       <Descricao tipo="principal" fontSize={12}>
-        Engenheira Full Stack
+        Engenheira Full Stack E-mail: karenmoraes222@gmail.com Visite meu
+        GitHub: https://github.com/Xmaloe
       </Descricao>
       <BotaoTema onClick={props.trocaTema}>Trocar tema</BotaoTema>
     </SidebarContainer>
